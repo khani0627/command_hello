@@ -1,3 +1,3 @@
 2:hotfix브랜치에서 입력하다.
-2:hotfix브랜치에서 입력하다.
+2:hotfix브랜치에서 입력하다.충돌 실험용 수정(hotfix에서)
 1:처음으로 Hello.txt를 생성하여 git을 학습합니다.
